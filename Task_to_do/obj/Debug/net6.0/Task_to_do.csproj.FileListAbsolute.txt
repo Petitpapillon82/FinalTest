@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\bin\Debug\net6.0\Task_to_do.exe
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\bin\Debug\net6.0\Task_to_do.deps.json
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\bin\Debug\net6.0\Task_to_do.runtimeconfig.json
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\bin\Debug\net6.0\Task_to_do.dll
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\bin\Debug\net6.0\Task_to_do.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.dll
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\refint\Task_to_do.dll
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.pdb
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\Task_to_do.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Учеба GB\Final Work\Task_to_do\obj\Debug\net6.0\ref\Task_to_do.dll
